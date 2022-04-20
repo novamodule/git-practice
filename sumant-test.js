@@ -1,3 +1,3 @@
 const person = {
-    name: "sumanth"
+    name: "sumanth pala"
 }
