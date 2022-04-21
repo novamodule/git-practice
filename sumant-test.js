@@ -1,3 +1,6 @@
 const person = {
-    name: "sumanth pala"
+    name: "sumanth pala",
+    team:[
+      "name":"sneha"
+    ]
 }
