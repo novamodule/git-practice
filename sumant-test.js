@@ -1,4 +1,4 @@
 const person = {
     name: "sumanth",
-    team: ["sumanth"]
+    team: ["sumanth","ravi","srinivas"]
 }
