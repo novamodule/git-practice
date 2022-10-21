@@ -1,0 +1,7 @@
+const Sukhbir = {
+'name' : 'Sukhbirsingh Khalsa',
+'email' : 'sukhbirsingh.khalsa@novamodule.com',
+'phone' : 8766814548,
+'role': 'Associate Software Engineer',
+'also-called-as' : {'sukhi','ssk'}
+};
